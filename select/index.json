@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ノマネ",
+  "base_artist": "理芽",
+  "createdAt": "2026-03-07T08:35:18.441171Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノマネ",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_ノマネ_理芽.txt"
+    }
+  ]
+}
